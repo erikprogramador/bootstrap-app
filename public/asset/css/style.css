@@ -7,6 +7,19 @@
 .service-img-size {
 	width: 200px;
 }
+.contact-img-size {
+	width: 150px;
+}
 .title-bottom-space {
 	margin-bottom: 45px;
+}
+.margin-btn {
+	margin-top: 5px;
+}
+.border-right-thin {
+	border-right: solid thin #ccc;
+}
+textarea.form-control {
+	height: 150px;
+	resize: none;
 }
