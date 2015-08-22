@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap-app",
+  "version": "0.0.1",
+  "authors": [
+    "Erik Vanderlei Fernandes <erik.vanderlei.programador@outlook.com>"
+  ],
+  "description": "aplicação usando twitter bootstrap",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/asset/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
